@@ -1,0 +1,104 @@
+{
+    "roles": [
+        "AGENT",
+        "CUSTOMER"
+    ],
+    "dialog": [
+        {
+            "role": "CUSTOMER",
+            "text": "Hi, I'd like to cancel my 'Super-Stream' subscription, please."
+        },
+        {
+            "role": "AGENT",
+            "text": "I'm so sorry to hear that! You've been a valued member of the 'Super-Stream' family for nearly twenty minutes now. Is it something I said?"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "No, I just realized I'm paying eighty dollars a month for a service that only has three movies I actually like."
+        },
+        {
+            "role": "AGENT",
+            "text": "I understand. Before we proceed, did you know that we just added 'Extreme Ironing: The Documentary' to our catalog?"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "I don't care about ironing. I just want to cancel."
+        },
+        {
+            "role": "AGENT",
+            "text": "Of course. I'm clicking the button right now... Oh, wait! My system just flagged your account for a special 'Please Stay' discount. We can offer you five percent off for the next three days!"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "That's useless. Please just cancel it."
+        },
+        {
+            "role": "AGENT",
+            "text": "I hear your frustration. Truly. What if I told you that by staying, you're helping to save the North American Squirrel population? We donate a fraction of a cent every year."
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "I like squirrels, but I like my eighty dollars more. Cancel. My. Subscription."
+        },
+        {
+            "role": "AGENT",
+            "text": "I'm trying, I really am. But the 'Cancel' button has turned into a 'Spin the Wheel' game. Would you like to spin for a chance to win a 'Super-Stream' branded water bottle?"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "No! Just stop! Why is this so hard?"
+        },
+        {
+            "role": "AGENT",
+            "text": "It's not hard, it's a 'Journey'. If you leave now, you'll lose all your progress in our 'Loyalty Quest'. You're only four years away from a free digital sticker!"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "I'm going to call my bank and tell them to block the charges."
+        },
+        {
+            "role": "AGENT",
+            "text": "Wait! Don't do that! Think of the algorithms! They've worked so hard to get to know you. They know you like 'Gritty Belgian Dramas' and 'Videos of Pugs'. Who will suggest those to you now?"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "I'll find my own pugs. Just. Click. The. Button."
+        },
+        {
+            "role": "AGENT",
+            "text": "Okay, okay. I'm reaching for the 'Final Confirmation' tab. But first, I need you to answer a brief thirty-question survey about why we weren't good enough for you."
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "I'm hanging up now."
+        },
+        {
+            "role": "AGENT",
+            "text": "If you hang up, the cancellation won't process and we'll automatically upgrade you to the 'Platinum-God-Tier' plan for double the price."
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "Is that even legal? You are holding my credit card hostage!"
+        },
+        {
+            "role": "AGENT",
+            "text": "We prefer the term 'Relationship Custody'. Look, I'll give you six months free if you promise to watch one episode of 'Cooking with Pebbles'."
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "Fine! Whatever! Just stop talking!"
+        },
+        {
+            "role": "AGENT",
+            "text": "Great! I've renewed your subscription for another two years. Welcome back to the family!"
+        },
+        {
+            "role": "CUSTOMER",
+            "text": "Wait, what? No! That's the opposite of what I wanted!"
+        },
+        {
+            "role": "AGENT",
+            "text": "I'll send you that water bottle anyway. Have a 'Super' day!"
+        }
+    ]
+}

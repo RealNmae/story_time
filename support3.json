@@ -1,0 +1,104 @@
+{
+    "roles": [
+        "INTERVIEWER",
+        "CANDIDATE"
+    ],
+    "dialog": [
+        {
+            "role": "INTERVIEWER",
+            "text": "Thanks for coming in. We are looking for a highly motivated Junior Developer who is ready to hit the ground running."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "Thank you! I am really excited about the role. I have been building apps for three years now."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "That is nice, but let's look at the core requirements. Do you have experience with 'HyperSwift-AI'?"
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "Actually, yes! I started using it the day it was released last June. I even contributed to the open-source documentation."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "Only since last June? That is... concerning. We are looking for a minimum of ten years of professional experience in 'HyperSwift-AI'."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "But sir, the technology has only existed for fourteen months. The creator of the language doesn't even have ten years of experience in it."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "I don't like excuses, it shows a lack of dedication. What about your experience with 'Quantum-React'?"
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "Again, that came out in 2024. I have been using it since the beta."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "We need twelve years for that. Plus a Master's degree in Rocket Science for this Junior position."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "Wait, the job description said 'Entry Level'. The salary is listed as 'competitive', which usually means minimum wage."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "It is entry-level for us. We want someone with the wisdom of a retired CEO and the soul of a hungry intern."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "I feel like I am in a glitch in the matrix. How can anyone meet these criteria?"
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "The right candidate will find a way. Perhaps by manipulating the space-time continuum? Are you a team player?"
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "I was, until five minutes ago."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "Let's move on. We have a coding test. You have three minutes to rebuild Facebook using only CSS and a calculator."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "You are joking, right? Please tell me there's a hidden camera."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "I don't joke about 'HyperSwift'. Now, regarding the ten years of experience..."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "I literally can't give you ten years of a one-year-old tech! It's mathematically impossible!"
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "Not with that attitude it isn't. We need 'Rockstars' here."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "Rockstars usually die young from the stress of people like you."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "Is that a 'no' on the ten years then?"
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "You know what? I'll go work for the guy who actually invented the language. He probably only has one year of experience too."
+        },
+        {
+            "role": "INTERVIEWER",
+            "text": "Fine. But you're missing out on a great opportunity to earn 'Company Equity' that will never vest."
+        },
+        {
+            "role": "CANDIDATE",
+            "text": "Goodbye. Good luck finding your time-traveling Junior."
+        }
+    ]
+}

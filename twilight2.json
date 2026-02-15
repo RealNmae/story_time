@@ -1,0 +1,140 @@
+{
+    "roles": [
+        "EDWARD",
+        "BELLA"
+    ],
+    "dialog": [
+        {
+            "role": "EDWARD",
+            "text": "Hello."
+        },
+        {
+            "role": "EDWARD",
+            "text": "I didn't have a chance to introduce myself last week. My name is Edward Cullen."
+        },
+        {
+            "role": "BELLA",
+            "text": "I'm... yes."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Ladies first."
+        },
+        {
+            "role": "BELLA",
+            "text": "You've been gone."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Out of town. For personal reasons."
+        },
+        {
+            "role": "BELLA",
+            "text": "Prophase."
+        },
+        {
+            "role": "EDWARD",
+            "text": "May I look?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "Prophase."
+        },
+        {
+            "role": "BELLA",
+            "text": "Like I said."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Enjoying the rain?"
+        },
+        {
+            "role": "BELLA",
+            "text": "Seriously? You're asking me about the weather?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "It appears."
+        },
+        {
+            "role": "BELLA",
+            "text": "No. I don't like the cold. Or the wet. Or the gray. Or parkas. Or turtle necks."
+        },
+        {
+            "role": "BELLA",
+            "text": "What?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "Anaphase."
+        },
+        {
+            "role": "BELLA",
+            "text": "May I? Anaphase."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Like I said."
+        },
+        {
+            "role": "EDWARD",
+            "text": "If you hate cold and rain, why move to the wettest place in the continental U.S."
+        },
+        {
+            "role": "BELLA",
+            "text": "It's complicated."
+        },
+        {
+            "role": "EDWARD",
+            "text": "I think I can keep up."
+        },
+        {
+            "role": "BELLA",
+            "text": "My mother remarried."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Very complex. So you don't like him."
+        },
+        {
+            "role": "BELLA",
+            "text": "Phil is fine. Young for her, but nice enough. Interphase."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Why didn't you stay with your mom and stepdad?"
+        },
+        {
+            "role": "BELLA",
+            "text": "Alright, Phil's a minor league baseball player, so he travels a lot. My mother stayed home with me but it made her unhappy. So I decided to spend time with my father."
+        },
+        {
+            "role": "EDWARD",
+            "text": "But now you're unhappy."
+        },
+        {
+            "role": "BELLA",
+            "text": "No... I -- I just.. ."
+        },
+        {
+            "role": "EDWARD",
+            "text": "I'm just trying to figure you out. You're very hard to read."
+        },
+        {
+            "role": "BELLA",
+            "text": "Did you get contacts?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "... no."
+        },
+        {
+            "role": "BELLA",
+            "text": "Your eyes were black before, now they're this golden brown or -"
+        },
+        {
+            "role": "EDWARD",
+            "text": "It's just the fluorescents."
+        }
+    ]
+}

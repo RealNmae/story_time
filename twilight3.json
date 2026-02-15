@@ -1,0 +1,104 @@
+{
+    "roles": [
+        "BELLA",
+        "EDWARD"
+    ],
+    "dialog": [
+        {
+            "role": "BELLA",
+            "text": "I can't believe you're making me do this."
+        },
+        {
+            "role": "BELLA",
+            "text": "You really are trying to kill me."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Prom is an important rite of passage. I don't want you to miss anything."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Shall we?"
+        },
+        {
+            "role": "BELLA",
+            "text": "You're serious."
+        },
+        {
+            "role": "EDWARD",
+            "text": "See? You're dancing."
+        },
+        {
+            "role": "BELLA",
+            "text": "At prom."
+        },
+        {
+            "role": "BELLA",
+            "text": "Edward... why did you save me? If you'd let the venom spread, I could've been like you by now."
+        },
+        {
+            "role": "EDWARD",
+            "text": "You don't know what you're saying. You don't want this."
+        },
+        {
+            "role": "BELLA",
+            "text": "I want you. Always."
+        },
+        {
+            "role": "EDWARD",
+            "text": "I won't end your life for you."
+        },
+        {
+            "role": "BELLA",
+            "text": "I'm dying anyway. Every minute, I get closer, older"
+        },
+        {
+            "role": "EDWARD",
+            "text": "That's how it's supposed to happen."
+        },
+        {
+            "role": "BELLA",
+            "text": "Not the way Alice saw it. I heard her. She saw me like you."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Her visions change, Bella."
+        },
+        {
+            "role": "BELLA",
+            "text": "Based on what someone decides. And I've decided."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Is that what you dream about? Becoming a monster?"
+        },
+        {
+            "role": "BELLA",
+            "text": "I dream about being with you forever."
+        },
+        {
+            "role": "EDWARD",
+            "text": "You really want this?"
+        },
+        {
+            "role": "BELLA",
+            "text": "Yes."
+        },
+        {
+            "role": "EDWARD",
+            "text": "You're ready right now?"
+        },
+        {
+            "role": "BELLA",
+            "text": "Yes."
+        },
+        {
+            "role": "EDWARD",
+            "text": "You're going to have a long and happy life with me. Isn't that enough?"
+        },
+        {
+            "role": "BELLA",
+            "text": "For now."
+        }
+    ]
+}

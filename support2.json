@@ -1,0 +1,119 @@
+{
+    "roles": [
+        "MANAGER",
+        "TECH LEAD",
+        "INTERN",
+        "SALES",
+        "HR"
+    ],
+    "dialog": [
+        {
+            "role": "MANAGER",
+            "text": "Great sync, everyone. I think we've really narrowed down the color of the 'Submit' button. Now, let's schedule a follow-up to finalize the shade of blue."
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "Can't we just do this over Slack? I have a major deployment on Wednesday."
+        },
+        {
+            "role": "MANAGER",
+            "text": "No, we need 'alignment'. How does Tuesday at 9 AM look for everyone?"
+        },
+        {
+            "role": "SALES",
+            "text": "I'm traveling to a conference on Tuesday. I can do Monday at 7 PM?"
+        },
+        {
+            "role": "HR",
+            "text": "Monday is a 'Mental Health Half-Day' for my department. So, no."
+        },
+        {
+            "role": "INTERN",
+            "text": "I have a class on Monday and Tuesday. I'm only here Wednesday and Thursday."
+        },
+        {
+            "role": "MANAGER",
+            "text": "Okay, so Wednesday at 10 AM?"
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "As I said, that's my deployment window. I literally cannot be there unless you want the site to crash."
+        },
+        {
+            "role": "MANAGER",
+            "text": "We need your technical input on the blue, Bob. It's critical."
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "It's hex code #0000FF. There. I've provided my input."
+        },
+        {
+            "role": "SALES",
+            "text": "Actually, my client says that blue feels 'too aggressive'. Can we look at Thursday?"
+        },
+        {
+            "role": "HR",
+            "text": "Thursday works, but only between 11:15 and 11:45."
+        },
+        {
+            "role": "INTERN",
+            "text": "I have my lunch break then. Does that matter?"
+        },
+        {
+            "role": "MANAGER",
+            "text": "We can all just eat during the meeting! Let's call it a 'Lunch and Learn'."
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "I don't want to 'Learn' about a button color for an hour while I'm eating my salad."
+        },
+        {
+            "role": "SALES",
+            "text": "Wait, I just realized I have a dentist appointment on Thursday. How about Friday?"
+        },
+        {
+            "role": "MANAGER",
+            "text": "Friday is 'Focus Friday'. No meetings allowed."
+        },
+        {
+            "role": "HR",
+            "text": "Actually, we moved 'Focus Friday' to 'Thoughtful Thursday', so Friday is open, but only in the afternoon."
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "I'm out on Friday. Taking a personal day to recover from this meeting."
+        },
+        {
+            "role": "MANAGER",
+            "text": "Okay, let's circle back. How about we meet on Saturday morning?"
+        },
+        {
+            "role": "INTERN",
+            "text": "Is that... legal?"
+        },
+        {
+            "role": "HR",
+            "text": "Technically no, but we can call it a 'Voluntary Synergy Session'."
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "I'm going to lose my mind. I'm sending an email right now with five options. Just pick one."
+        },
+        {
+            "role": "MANAGER",
+            "text": "But an email doesn't capture the 'vibe'. Let's just put a placeholder for next Tuesday at 9 AM and see who can make it."
+        },
+        {
+            "role": "SALES",
+            "text": "I'll be in the air. Can I join from the plane?"
+        },
+        {
+            "role": "MANAGER",
+            "text": "Perfect! That's the spirit. I'll send out the invite for the meeting about the meeting right now."
+        },
+        {
+            "role": "TECH LEAD",
+            "text": "I'm quitting. I'm actually quitting."
+        }
+    ]
+}

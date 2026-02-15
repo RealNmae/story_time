@@ -1,0 +1,124 @@
+{
+    "roles": [
+        "BELLA",
+        "EDWARD"
+    ],
+    "dialog": [
+        {
+            "role": "BELLA",
+            "text": "You're impossibly fast. And strong. Your skin is pale-white, ice-cold. Your eyes change color. And sometimes you speak like... you're from a different time. You never eat food, or drink, or come out in the sunlight. And you said no to the beach trip only after you heard where it was. Because of the treaty. How old are you?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "Seventeen."
+        },
+        {
+            "role": "BELLA",
+            "text": "How long have you been seventeen?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "... A while."
+        },
+        {
+            "role": "BELLA",
+            "text": "I know what the Cold Ones are. What you are."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Say it. Out loud. Say it."
+        },
+        {
+            "role": "BELLA",
+            "text": "... Vampire"
+        },
+        {
+            "role": "EDWARD",
+            "text": "Are you afraid?"
+        },
+        {
+            "role": "BELLA",
+            "text": "No."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Then ask me the most basic question: what do we eat?"
+        },
+        {
+            "role": "BELLA",
+            "text": "You won't hurt me. You're different."
+        },
+        {
+            "role": "EDWARD",
+            "text": "You think you know me?"
+        },
+        {
+            "role": "BELLA",
+            "text": "Where are we going?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "Up the mountain. Out of the cloud bank. You need to see what I really am. What I look like in the harsh light of the sun."
+        },
+        {
+            "role": "BELLA",
+            "text": "No! The sunlight will kill you."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Myth. You need to see the truth."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Are you afraid?"
+        },
+        {
+            "role": "BELLA",
+            "text": "No."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Then come with me. Someplace where no one can protect you. Where I could do what I've wanted to do from the first moment I met you."
+        },
+        {
+            "role": "BELLA",
+            "text": "I'm not afraid."
+        },
+        {
+            "role": "EDWARD",
+            "text": "You should be. Hold on."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Are you afraid!"
+        },
+        {
+            "role": "BELLA",
+            "text": "No!"
+        },
+        {
+            "role": "BELLA",
+            "text": "Edward? Where are you?"
+        },
+        {
+            "role": "EDWARD",
+            "text": "This is why we don't show ourselves in sunlight.. . This is what I am."
+        },
+        {
+            "role": "BELLA",
+            "text": "You're... beautiful.. ."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Beautiful? I'm a killer, Bella. This is the skin of a killer."
+        },
+        {
+            "role": "BELLA",
+            "text": "I don't believe that."
+        },
+        {
+            "role": "EDWARD",
+            "text": "Because you believe the lie. The camouflage. I'm the world's most dangerous predator. Everything about me invites you in - my voice, my face, even my smell. As if I need any of that.. . As if you could outrun me. As if you could fight me off."
+        }
+    ]
+}
