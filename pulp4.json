@@ -1,0 +1,118 @@
+{
+    "roles": [
+        "Jules",
+        "Vincent",
+        "Pumpkin",
+        "Yolanda"
+    ],
+    "dialog": [
+        {
+            "role": "Jules",
+            "text": "Now this is the situation. Normally both of your asses would be dead as fuckin' fried chicken. But you happened to pull this shit while I'm in a transitional period. I don't wanna kill ya, I want to help ya. But I'm afraid I can't give you the case. It don't belong to me. Besides, I went through too much shit this morning on account of this case to just hand it over to your ass."
+        },
+        {
+            "role": "Vincent",
+            "text": "What the fuck's goin' on here?"
+        },
+        {
+            "role": "Jules",
+            "text": "It's cool, Vincent! It's cool! Don't do a goddamn thing. Yolanda, it's cool baby, nothin's changed. We're still just talkin'. Tell her we're still cool."
+        },
+        {
+            "role": "Pumpkin",
+            "text": "It's cool, Honey Bunny, we're still cool."
+        },
+        {
+            "role": "Vincent",
+            "text": "What the hell's goin' on, Jules?"
+        },
+        {
+            "role": "Jules",
+            "text": "Nothin' I can't handle. I want you to just hang back and don't do shit unless it's absolutely necessary."
+        },
+        {
+            "role": "Vincent",
+            "text": "Check."
+        },
+        {
+            "role": "Jules",
+            "text": "Yolanda, how we doin, baby?"
+        },
+        {
+            "role": "Yolanda",
+            "text": "I gotta go pee! I want to go home."
+        },
+        {
+            "role": "Jules",
+            "text": "Just hang in there, baby, you're doing' great, Ringo's proud of you and so am I. It's almost over. Now I want you to go in that bag and find my wallet."
+        },
+        {
+            "role": "Pumpkin",
+            "text": "Which one is it?"
+        },
+        {
+            "role": "Jules",
+            "text": "It's the one that says Bad Motherfucker on it."
+        },
+        {
+            "role": "Jules",
+            "text": "That's my bad motherfucker. Now open it up and take out the cash. How much is there?"
+        },
+        {
+            "role": "Pumpkin",
+            "text": "About fifteen hundred dollars."
+        },
+        {
+            "role": "Jules",
+            "text": "Put it in your pocket, it's yours. Now with the rest of them wallets and the register, that makes this a pretty successful little score."
+        },
+        {
+            "role": "Vincent",
+            "text": "Jules, if you give this nimrod fifteen hundred buck, I'm gonna shoot 'em on general principle."
+        },
+        {
+            "role": "Jules",
+            "text": "You ain't gonna do a goddamn thing, now hang back and shut the fuck up. Besides, I ain't givin' it to him. I'm buyin' somethin' for my money. Wanna know what I'm buyin' Ringo?"
+        },
+        {
+            "role": "Pumpkin",
+            "text": "What?"
+        },
+        {
+            "role": "Jules",
+            "text": "Your life. I'm givin' you that money so I don't hafta kill your ass. You read the Bible?"
+        },
+        {
+            "role": "Pumpkin",
+            "text": "Not regularly."
+        },
+        {
+            "role": "Jules",
+            "text": "There's a passage I got memorized. Ezekiel 25:17. The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness. For he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you."
+        },
+        {
+            "role": "Jules",
+            "text": "I been sayin' that shit for years. And if you ever heard it, it meant your ass. I never really questioned what it meant. I thought it was just a coldblooded thing to say to a motherfucker 'fore you popped a cap in his ass. But I saw some shit this mornin' made me think twice."
+        },
+        {
+            "role": "Jules",
+            "text": "Now I'm thinkin', it could mean you're the evil man. And I'm the righteous man. And Mr. .45 here, he's the shepherd protecting my righteous ass in the valley of darkness. Or is could by you're the righteous man and I'm the shepherd and it's the world that's evil and selfish. I'd like that. But that shit ain't the truth."
+        },
+        {
+            "role": "Jules",
+            "text": "The truth is you're the weak. And I'm the tyranny of evil men. But I'm tryin'. I'm tryin' real hard to be a shepherd."
+        },
+        {
+            "role": "Jules",
+            "text": "It's cold."
+        },
+        {
+            "role": "Vincent",
+            "text": "I think we oughta leave now."
+        },
+        {
+            "role": "Jules",
+            "text": "That's probably a good idea."
+        }
+    ]
+}

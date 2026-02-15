@@ -1,0 +1,108 @@
+{
+    "roles": [
+        "Jules",
+        "Vincent"
+    ],
+    "dialog": [
+        {
+            "role": "Jules",
+            "text": "Okay now, tell me about the hash bars?"
+        },
+        {
+            "role": "Vincent",
+            "text": "What so you want to know?"
+        },
+        {
+            "role": "Jules",
+            "text": "Well, hash is legal there, right?"
+        },
+        {
+            "role": "Vincent",
+            "text": "Yeah, it's legal, but is ain't a hundred percent legal. I mean you can't walk into a restaurant, roll a joint, and start puffin' away. You're only supposed to smoke in your home or certain designated places."
+        },
+        {
+            "role": "Jules",
+            "text": "Those are hash bars?"
+        },
+        {
+            "role": "Vincent",
+            "text": "Yeah, it breaks down like this: it's legal to buy it, it's legal to own it and, if you're the proprietor of a hash bar, it's legal to sell it. It's legal to carry it, which doesn't really matter 'cause — get a load of this — if the cops stop you, it's illegal for this to search you. Searching you is a right that the cops in Amsterdam don't have."
+        },
+        {
+            "role": "Jules",
+            "text": "That did it, man — I'm fuckin' goin', that's all there is to it."
+        },
+        {
+            "role": "Vincent",
+            "text": "You'll dig it the most. But you know what the funniest thing about Europe is?"
+        },
+        {
+            "role": "Jules",
+            "text": "What?"
+        },
+        {
+            "role": "Vincent",
+            "text": "It's the little differences. A lotta the same shit we got here, they got there, but there they're a little different."
+        },
+        {
+            "role": "Jules",
+            "text": "Examples?"
+        },
+        {
+            "role": "Vincent",
+            "text": "Well, in Amsterdam, you can buy beer in a movie theatre. And I don't mean in a paper cup either. They give you a glass of beer, like in a bar. In Paris, you can buy beer at MacDonald's. Also, you know what they call a Quarter Pounder with Cheese in Paris?"
+        },
+        {
+            "role": "Jules",
+            "text": "They don't call it a Quarter Pounder with Cheese?"
+        },
+        {
+            "role": "Vincent",
+            "text": "No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is."
+        },
+        {
+            "role": "Jules",
+            "text": "What'd they call it?"
+        },
+        {
+            "role": "Vincent",
+            "text": "Royale with Cheese."
+        },
+        {
+            "role": "Jules",
+            "text": "Royale with Cheese. What'd they call a Big Mac?"
+        },
+        {
+            "role": "Vincent",
+            "text": "Big Mac's a Big Mac, but they call it Le Big Mac."
+        },
+        {
+            "role": "Jules",
+            "text": "Le Big Mac. What do they call a Whopper?"
+        },
+        {
+            "role": "Vincent",
+            "text": "I dunno, I didn't go into a Burger King. But you know what they put on french fries in Holland instead of ketchup?"
+        },
+        {
+            "role": "Jules",
+            "text": "What?"
+        },
+        {
+            "role": "Vincent",
+            "text": "Mayonnaise."
+        },
+        {
+            "role": "Jules",
+            "text": "Goddamn!"
+        },
+        {
+            "role": "Vincent",
+            "text": "I seen 'em do it. And I don't mean a little bit on the side of the plate, they fuckin' drown 'em in it."
+        },
+        {
+            "role": "Jules",
+            "text": "Uuccch!"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "roles": [
+        "SAM",
+        "FRODO",
+        "GANDALF",
+        "LEGOLAS",
+        "ARAGORN",
+        "GIMLI"
+    ],
+    "dialog": [
+        {
+            "role": "SAM",
+            "text": "Mr. Frodo!"
+        },
+        {
+            "role": "FRODO",
+            "text": "I wish the ring had never come to me..I wish none of this had happened..."
+        },
+        {
+            "role": "GANDALF",
+            "text": "So do all who lie to see such times...but that is not for them to decide. All we have to decide is what to do with the time that is given us."
+        },
+        {
+            "role": "SAM",
+            "text": "Not alone, Frodo. Mr. Frodo!"
+        },
+        {
+            "role": "FRODO",
+            "text": "No, Sam."
+        },
+        {
+            "role": "FRODO",
+            "text": "Go back, Sam. I'm going to Mordor alone."
+        },
+        {
+            "role": "SAM",
+            "text": "Of course you are...and I'm coming with you!"
+        },
+        {
+            "role": "FRODO",
+            "text": "You can't swim."
+        },
+        {
+            "role": "FRODO",
+            "text": "Sam!"
+        },
+        {
+            "role": "SAM",
+            "text": "I made a promise, Mr. Frodo...a promise. 'Don't you leave him, Samwise Gamgee.' And I don't mean to...I don't mean to."
+        },
+        {
+            "role": "FRODO",
+            "text": "Oh, Sam!"
+        },
+        {
+            "role": "FRODO",
+            "text": "Come on then.."
+        },
+        {
+            "role": "LEGOLAS",
+            "text": "If we are quick, we will catch Frodo and Sam before nightfall."
+        },
+        {
+            "role": "LEGOLAS",
+            "text": "You mean not to follow them..."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Frodo's fate is no longer in our hands."
+        },
+        {
+            "role": "GIMLI",
+            "text": "Then it has all been in vain...the fellowship has failed."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Not if we hold true to each other. We will not abandon Merry and Pippin to torment and death, not while we have strength left. Leave all that can be spared behind... We travel light. Let's hunt some Orc."
+        },
+        {
+            "role": "GIMLI",
+            "text": "Yes! Ha!"
+        },
+        {
+            "role": "FRODO",
+            "text": "Mordor! I hope the others find a safer road."
+        },
+        {
+            "role": "SAM",
+            "text": "Strider'll look after them."
+        },
+        {
+            "role": "FRODO",
+            "text": "I don't suppose we'll ever see them again."
+        },
+        {
+            "role": "SAM",
+            "text": "We may yet, Mr. Frodo. We may."
+        },
+        {
+            "role": "FRODO",
+            "text": "Sam? I'm glad you're with me."
+        }
+    ]
+}

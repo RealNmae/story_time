@@ -1,0 +1,149 @@
+{
+    "roles": [
+        "Jules",
+        "Vincent",
+        "Brett"
+    ],
+    "dialog": [
+        {
+            "role": "Jules",
+            "text": "How you boys doin'?"
+        },
+        {
+            "role": "Brett",
+            "text": "We're doin' okay."
+        },
+        {
+            "role": "Jules",
+            "text": "Do you know who we are?"
+        },
+        {
+            "role": "Jules",
+            "text": "We're associates of your business partner Marsellus Wallace, you remember your business partner dont'ya?"
+        },
+        {
+            "role": "Jules",
+            "text": "Now I'm gonna take a wild guess here: you're Brett, right?"
+        },
+        {
+            "role": "Brett",
+            "text": "I'm Brett."
+        },
+        {
+            "role": "Jules",
+            "text": "I thought so. Well, you remember your business partner Marsellus Wallace, dont'ya Brett?"
+        },
+        {
+            "role": "Brett",
+            "text": "I remember him."
+        },
+        {
+            "role": "Jules",
+            "text": "Good for you. Looks like me and Vincent caught you at breakfast, sorry 'bout that. What'cha eatin'?"
+        },
+        {
+            "role": "Brett",
+            "text": "Hamburgers."
+        },
+        {
+            "role": "Jules",
+            "text": "Hamburgers. The cornerstone of any nutritious breakfast. What kinda hamburgers?"
+        },
+        {
+            "role": "Brett",
+            "text": "Cheeseburgers."
+        },
+        {
+            "role": "Jules",
+            "text": "No, I mean where did you get'em? MacDonald's, Wendy's, Jack-in-the-Box, where?"
+        },
+        {
+            "role": "Brett",
+            "text": "Big Kahuna Burger."
+        },
+        {
+            "role": "Jules",
+            "text": "Big Kahuna Burger. That's that Hawaiian burger joint. I heard they got some tasty burgers. I ain't never had one myself, how are they?"
+        },
+        {
+            "role": "Brett",
+            "text": "They're good."
+        },
+        {
+            "role": "Jules",
+            "text": "Mind if I try one of yours?"
+        },
+        {
+            "role": "Brett",
+            "text": "No."
+        },
+        {
+            "role": "Jules",
+            "text": "Yours is this one, right?"
+        },
+        {
+            "role": "Brett",
+            "text": "Yeah."
+        },
+        {
+            "role": "Jules",
+            "text": "Uuummmm, that's a tasty burger. Vince, you ever try a Big Kahuna Burger?"
+        },
+        {
+            "role": "Vincent",
+            "text": "No."
+        },
+        {
+            "role": "Jules",
+            "text": "You wanna bite, they're real good."
+        },
+        {
+            "role": "Vincent",
+            "text": "I ain't hungry."
+        },
+        {
+            "role": "Jules",
+            "text": "Well, if you like hamburgers give 'em a try sometime. Me, I can't usually eat 'em 'cause my girlfriend's a vegetarian. Which more or less makes me a vegetarian, but I sure love the taste of a good burger. You know what they call a Quarter Pounder with Cheese in France?"
+        },
+        {
+            "role": "Brett",
+            "text": "No."
+        },
+        {
+            "role": "Jules",
+            "text": "Tell 'em, Vincent."
+        },
+        {
+            "role": "Vincent",
+            "text": "Royale with Cheese."
+        },
+        {
+            "role": "Jules",
+            "text": "Royale with Cheese, you know why they call it that?"
+        },
+        {
+            "role": "Brett",
+            "text": "Because of the metric system?"
+        },
+        {
+            "role": "Jules",
+            "text": "Check out the big brain on Brett. You'a smart motherfucker, that's right. The metric system. What's in this?"
+        },
+        {
+            "role": "Brett",
+            "text": "Sprite."
+        },
+        {
+            "role": "Jules",
+            "text": "Sprite, good, mind if I have some of your tasty beverage to wash this down with?"
+        },
+        {
+            "role": "Brett",
+            "text": "Sure."
+        },
+        {
+            "role": "Jules",
+            "text": "Uuuuummmm, hit's the spot!"
+        }
+    ]
+}

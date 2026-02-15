@@ -1,0 +1,100 @@
+{
+    "roles": [
+        "GANDALF",
+        "PIPPIN",
+        "MERRY",
+        "FRODO",
+        "GALADRIEL",
+        "SAM"
+    ],
+    "dialog": [
+        {
+            "role": "GANDALF",
+            "text": "We now have but one choice...we must face the long dark of Moria. Be on your guard...there are older and fouler things than the Orcs in the deep places of the world."
+        },
+        {
+            "role": "GANDALF",
+            "text": "Quietly, now. It's a four day journey to the other side. Let us hope that our presence will go unnoticed."
+        },
+        {
+            "role": "PIPPIN",
+            "text": "Are we lost?"
+        },
+        {
+            "role": "MERRY",
+            "text": "No. I don't think we are. Shhhh, Gandalf's thinking."
+        },
+        {
+            "role": "PIPPIN",
+            "text": "Merry!"
+        },
+        {
+            "role": "MERRY",
+            "text": "What?"
+        },
+        {
+            "role": "PIPPIN",
+            "text": "I'm hungry."
+        },
+        {
+            "role": "FRODO",
+            "text": "There's something down there."
+        },
+        {
+            "role": "GANDALF",
+            "text": "It's Gollum."
+        },
+        {
+            "role": "FRODO",
+            "text": "Gollum!"
+        },
+        {
+            "role": "GANDALF",
+            "text": "He's been following us for three days."
+        },
+        {
+            "role": "FRODO",
+            "text": "He escaped the dungeons of Barad- dur?"
+        },
+        {
+            "role": "GANDALF",
+            "text": "Escaped...or was set loose. And now the Ring has drawn him here...he will never be rid of his need for it. He hates and loves the ring, as he hates and loves himself. Smeagol's life is a sad story. Yes...Smeagol he was once called...Before the ring came to him, before it drove him mad."
+        },
+        {
+            "role": "FRODO",
+            "text": "It's a pity Bilbo didn't kill him when he had the chance."
+        },
+        {
+            "role": "GANDALF",
+            "text": "Pity? It was pity that stayed Bilbo's hand. Many that live deserve death, and some that die deserve life. Can you give it to them, Frodo? Do not be too eager to deal out death in judgment...even the very wise cannot see all ends. My heart tells me that Gollum has some part to play yet, for good or ill, before this is over. The pity of Bilbo may rule the fate of many."
+        },
+        {
+            "role": "FRODO",
+            "text": "I wish the ring had never come to me...I wish none of this had happened."
+        },
+        {
+            "role": "GANDALF",
+            "text": "So do all who live to see such times, but that is not for them to decide. All we have to decide is what to do with the time that is given to us. There are other forces at work in this world, Frodo, besides the will of evil. Bilbo was meant to find the ring. In which case, you also were meant to have it...and that is an encouraging thought, Ah! That it's that way!"
+        },
+        {
+            "role": "MERRY",
+            "text": "He's remembered!"
+        },
+        {
+            "role": "GANDALF",
+            "text": "No, but the air doesn't smell so foul down there. If in doubt, Meriadoc, always follow your nose! Yes..."
+        },
+        {
+            "role": "GALADRIEL",
+            "text": "Let me risk a little more light."
+        },
+        {
+            "role": "GANDALF",
+            "text": "Behold! The great realm and Dwarf city of Dwarrowdelf!"
+        },
+        {
+            "role": "SAM",
+            "text": "Well, there's an eye opener and no mistake!"
+        }
+    ]
+}

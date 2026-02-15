@@ -1,0 +1,120 @@
+{
+    "roles": [
+        "Oracle",
+        "Neo"
+    ],
+    "dialog": [
+        {
+            "role": "Oracle",
+            "text": "I know. You're Neo. Be right with you."
+        },
+        {
+            "role": "Neo",
+            "text": "You're the Oracle?"
+        },
+        {
+            "role": "Oracle",
+            "text": "Bingo. I got to say I love seeing you non-believers. It's really a relief. All that pomp and circumstances just plain tucker me out. Almost done. Smell good, don't they?"
+        },
+        {
+            "role": "Neo",
+            "text": "Yeah."
+        },
+        {
+            "role": "Oracle",
+            "text": "I'd ask you to sit down, but you're not going to anyway. And don't worry about the vase."
+        },
+        {
+            "role": "Neo",
+            "text": "What vase?"
+        },
+        {
+            "role": "Oracle",
+            "text": "The vase."
+        },
+        {
+            "role": "Neo",
+            "text": "Shit, I'm sorry."
+        },
+        {
+            "role": "Oracle",
+            "text": "I said don't worry about it. I'll get one of my kids to fix it."
+        },
+        {
+            "role": "Neo",
+            "text": "How did you know...?"
+        },
+        {
+            "role": "Oracle",
+            "text": "What's really going to bake your noodle later on is, would you still have broken it if I hadn't said anything."
+        },
+        {
+            "role": "Oracle",
+            "text": "You're cuter than I thought. I see why she likes you."
+        },
+        {
+            "role": "Neo",
+            "text": "Who?"
+        },
+        {
+            "role": "Oracle",
+            "text": "Not too bright, though."
+        },
+        {
+            "role": "Oracle",
+            "text": "You know why Morpheus brought you to see me?"
+        },
+        {
+            "role": "Neo",
+            "text": "I think so."
+        },
+        {
+            "role": "Oracle",
+            "text": "So? What do you think? You think you're the one?"
+        },
+        {
+            "role": "Neo",
+            "text": "I don't know."
+        },
+        {
+            "role": "Oracle",
+            "text": "You know what that means? It's Latin. Means, 'Know thyself.'"
+        },
+        {
+            "role": "Oracle",
+            "text": "Well, let's have a look at you."
+        },
+        {
+            "role": "Oracle",
+            "text": "Open your mouth. Say, 'ahhh.'"
+        },
+        {
+            "role": "Oracle",
+            "text": "Hmmm. You sure got the gift, but it's tricky. I'd say the bad news is, you're not the one. Still got a lot to learn. Maybe next life."
+        },
+        {
+            "role": "Neo",
+            "text": "What's the good news?"
+        },
+        {
+            "role": "Oracle",
+            "text": "Same as the bad news, you're not the one."
+        },
+        {
+            "role": "Neo",
+            "text": "Is that it, then?"
+        },
+        {
+            "role": "Oracle",
+            "text": "No. Here."
+        },
+        {
+            "role": "Oracle",
+            "text": "You better take a cookie. Got a big day ahead of you."
+        },
+        {
+            "role": "Oracle",
+            "text": "Make a believer out of you yet."
+        }
+    ]
+}

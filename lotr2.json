@@ -1,0 +1,129 @@
+{
+    "roles": [
+        "BOROMIR",
+        "FRODO",
+        "ARAGORN"
+    ],
+    "dialog": [
+        {
+            "role": "BOROMIR",
+            "text": "None of us should wander alone; you least of all. So much depends on you...Frodo?"
+        },
+        {
+            "role": "BOROMIR",
+            "text": "I know why you seek solitude. You suffer, I see it day by day. Are you sure you do not suffer needlessly? Let me help you. There are other ways, Frodo..other paths that we might take."
+        },
+        {
+            "role": "FRODO",
+            "text": "I know what you would say, and it would seem like wisdom but for the warning of my heart."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Warning? Against what? We are all afraid, Frodo. But to let that fear drive us to destroy what hope we have...don't you see that is madness?"
+        },
+        {
+            "role": "FRODO",
+            "text": "There is no other way."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "I ask only for the strength to defend my people. If you would but lend me the ring..."
+        },
+        {
+            "role": "FRODO",
+            "text": "No. . ."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Why do you recoil? I am no thief."
+        },
+        {
+            "role": "FRODO",
+            "text": "You are not yourself."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "What chance do you think you have? They will find you, they will take the ring and you will beg for death before the end. You fool! It is not yours save by unhappy chance...it might have been mine. It should be mine. Give it to me! Give me the ring."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "I see your mind...you will take the ring to Sauron. You will betray us! You go to your death and the death of us all. Curse you! Curse you and your Halflings!"
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Frodo! Frodo! What have I done. Please, Frodo..."
+        },
+        {
+            "role": "FRODO",
+            "text": "It has taken Boromir."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Where is the ring?"
+        },
+        {
+            "role": "FRODO",
+            "text": "Stay away!"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Frodo...I swore to protect you."
+        },
+        {
+            "role": "FRODO",
+            "text": "Can you protect me from yourself? Would you destroy it?"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "I would have gone with you to the end... into the very fires of Mordor."
+        },
+        {
+            "role": "FRODO",
+            "text": "I know...Look after the others, especially Sam...he will not understand."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Go, Frodo! Run! Run!!"
+        },
+        {
+            "role": "BOROMIR",
+            "text": "They took the little ones... Frodo...where is Frodo?"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "I let Frodo go."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Then you did what I could not. I tried to take the ring from him."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "The ring is beyond our reach now."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Forgive me, I did not see..I have failed you all."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "No, Boromir. You fought bravely. You have kept your honor."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Leave it! It is over...the world of Men will fall and all will come to darkness and my city to ruin..Aragorn.."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "I do not know what strength is in my blood, but I swear to you... I will not let the White City fall, nor your people fail..."
+        },
+        {
+            "role": "BOROMIR",
+            "text": "Our people...our people... I would have followed you, my brother...my captain, my King."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Be at peace, son of Gondor."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "roles": [
+        "Tank",
+        "Neo",
+        "Morpheus",
+        "Cable",
+        "Apoc",
+        "Mouse",
+        "Switch",
+        "Trinity"
+    ],
+    "dialog": [
+        {
+            "role": "Tank",
+            "text": "Ten hours straight. He's a machine."
+        },
+        {
+            "role": "Neo",
+            "text": "This is incredible. I know Kung Fu."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Show me."
+        },
+        {
+            "role": "Morpheus",
+            "text": "This is a sparring program, similar to the programmed reality of the Matrix. Consider this your first lesson. Attack me."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Good. Adaption. Improvisation. But your weakness isn't your technique."
+        },
+        {
+            "role": "Morpheus",
+            "text": "How did I beat you?"
+        },
+        {
+            "role": "Neo",
+            "text": "You -- You're too fast."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Do you think my being faster, stronger has anything to do with my muscles in this place?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "Do you believe that's air you are breathing now?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "If you can free your mind, the body will follow. Again."
+        },
+        {
+            "role": "Morpheus",
+            "text": "You are angry with me."
+        },
+        {
+            "role": "Neo",
+            "text": "I, uh... maybe."
+        },
+        {
+            "role": "Morpheus",
+            "text": "It's all right. It's natural."
+        },
+        {
+            "role": "Neo",
+            "text": "I feel better."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Good, good. Anger is a gift, Neo, but it's a heavy one. Tank, load the jump program."
+        },
+        {
+            "role": "Morpheus",
+            "text": "You have to learn to let go of that anger. You must let go of everything. You must empty yourself to free your mind."
+        },
+        {
+            "role": "Neo",
+            "text": "Shit."
+        },
+        {
+            "role": "Neo",
+            "text": "Okie dokie."
+        },
+        {
+            "role": "Neo",
+            "text": "Yeah. Free my mind. Right. No problem."
+        },
+        {
+            "role": "Cable",
+            "text": "He's gonna make it."
+        },
+        {
+            "role": "Apoc",
+            "text": "No way. Not possible."
+        },
+        {
+            "role": "Mouse",
+            "text": "No one's ever made their first jump."
+        },
+        {
+            "role": "Switch",
+            "text": "What if he does?"
+        },
+        {
+            "role": "Apoc",
+            "text": "He won't."
+        },
+        {
+            "role": "Tank",
+            "text": "It's never been done."
+        },
+        {
+            "role": "Trinity",
+            "text": "Come on."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Everyone falls the first time."
+        },
+        {
+            "role": "Neo",
+            "text": "I thought it wasn't real. If you are killed in the Matrix, you die here?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "The body cannot live without the mind."
+        }
+    ]
+}

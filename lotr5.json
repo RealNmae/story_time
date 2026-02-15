@@ -1,0 +1,111 @@
+{
+    "roles": [
+        "ARAGORN",
+        "OMER",
+        "GIMLI",
+        "LEGOLAS",
+        "MERRY"
+    ],
+    "dialog": [
+        {
+            "role": "ARAGORN",
+            "text": "Riders of Rohan, what news from the Mark?"
+        },
+        {
+            "role": "OMER",
+            "text": "What business does an Elf, a man and a Dwarf have in the Riddermark? Speak quickly!"
+        },
+        {
+            "role": "GIMLI",
+            "text": "Give me your name, Horsemaster, and I shall give you mine."
+        },
+        {
+            "role": "OMER",
+            "text": "I would cut off your head, Dwarf, if it stood but a little higher from the ground."
+        },
+        {
+            "role": "LEGOLAS",
+            "text": "You would die before your stroke fell!"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "I am Aragorn, son of Arathorn. This is Gimli, son of Glóin and Legolas of the Woodland realm. We are friends of Rohan and of Théoden, your king."
+        },
+        {
+            "role": "OMER",
+            "text": "Théoden no longer recognizes friend from foe. Not even his own kin."
+        },
+        {
+            "role": "OMER",
+            "text": "Saruman has poisoned the mind of the king and claimed lordship over these lands. My company are those loyal to Rohan. And for that, we are banished. The White Wizard is cunning. He walks here and there, they say, as an old man, hooded and cloaked. And everywhere his spies slip past our nets."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "We are not spies. We track a party of Uruk-hai westward across the plain. They've taken two of our friends captive."
+        },
+        {
+            "role": "OMER",
+            "text": "The Uruks are destroyed. We slaughtered them during the night."
+        },
+        {
+            "role": "GIMLI",
+            "text": "But there were two hobbits. Did you see two hobbits with them?"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "They would be small — only children to your eyes."
+        },
+        {
+            "role": "OMER",
+            "text": "We left none alive. We piled the carcasses and burned them. I am sorry."
+        },
+        {
+            "role": "GIMLI",
+            "text": "Dead?"
+        },
+        {
+            "role": "OMER",
+            "text": "Hasufel! Arod! May these horses bear you to better fortune than their former masters. Farewell. Look for your friends. But do not trust to hope, it has forsaken these lands. We ride north!"
+        },
+        {
+            "role": "GIMLI",
+            "text": "It's one of their wee belts."
+        },
+        {
+            "role": "LEGOLAS",
+            "text": "Hiro íthil ab 'wanath... (May they find peace in death)"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "AAARRGGHH!!!"
+        },
+        {
+            "role": "GIMLI",
+            "text": "We failed them."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "A hobbit lay here, and the other. They crawled."
+        },
+        {
+            "role": "ARAGORN",
+            "text": "Their hands were bound. Their bonds were cut. They ran over here. They were followed."
+        },
+        {
+            "role": "MERRY",
+            "text": "The belt!"
+        },
+        {
+            "role": "MERRY",
+            "text": "Run!"
+        },
+        {
+            "role": "ARAGORN",
+            "text": "The tracks lead away from the battle... into Fangorn Forest."
+        },
+        {
+            "role": "GIMLI",
+            "text": "Fangorn. What madness drove them in there?"
+        }
+    ]
+}

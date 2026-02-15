@@ -1,0 +1,128 @@
+{
+    "roles": [
+        "Morpheus",
+        "Neo"
+    ],
+    "dialog": [
+        {
+            "role": "Morpheus",
+            "text": "At last."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Welcome, Neo. As you no doubt have guessed, I am Morpheus."
+        },
+        {
+            "role": "Neo",
+            "text": "It's an honor."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Please. Come. Sit."
+        },
+        {
+            "role": "Morpheus",
+            "text": "I imagine, right now, you must be feeling a bit like Alice, tumbling down the rabbit hole?"
+        },
+        {
+            "role": "Neo",
+            "text": "You could say that."
+        },
+        {
+            "role": "Morpheus",
+            "text": "I can see it in your eyes. You have the look of a man who accepts what he sees because he is expecting to wake up. Ironically, this is not far from the truth. But I'm getting ahead of myself. Can you tell me, Neo, why are you here?"
+        },
+        {
+            "role": "Neo",
+            "text": "You're Morpheus, you're a legend. Most hackers would die to meet you."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Yes. Thank you. But I think we both know there's more to it than that. Do you believe in fate, Neo?"
+        },
+        {
+            "role": "Neo",
+            "text": "No."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Why not?"
+        },
+        {
+            "role": "Neo",
+            "text": "Because I don't like the idea that I'm not in control of my life."
+        },
+        {
+            "role": "Morpheus",
+            "text": "I know exactly what you mean. Let me tell you why you are here. You are here because you have the gift."
+        },
+        {
+            "role": "Neo",
+            "text": "What gift?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "I've watched you, Neo. You do not use a computer like a tool. You use it like it was part of yourself. What you can do inside a computer is not normal. I know. I've seen it. What you do is magic."
+        },
+        {
+            "role": "Neo",
+            "text": "It's not magic."
+        },
+        {
+            "role": "Morpheus",
+            "text": "But it is, Neo. It is. How else would you describe what has been happening to you? We are trained in this world to accept only what is rational and logical. Have you ever wondered why?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "As children, we do not separate the possible from the impossible which is why the younger a mind is the easier it is to free while a mind like yours can be very difficult."
+        },
+        {
+            "role": "Neo",
+            "text": "Free from what?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "From the Matrix. Do you want to know what it is, Neo?"
+        },
+        {
+            "role": "Neo",
+            "text": "The Matrix. What is the Matrix?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "It's that feeling you have had all your life. That feeling that something was wrong with the world. You don't know what it is but it's there, like a splinter in your mind, driving you mad, driving you to me."
+        },
+        {
+            "role": "Morpheus",
+            "text": "The Matrix is everywhere, it's all around us, here even in this room. You can see it out your window, or on your television. You feel it when you go to work, or go to church or pay your taxes. It is the world that has been pulled over your eyes to blind you from the truth."
+        },
+        {
+            "role": "Neo",
+            "text": "What truth?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "That you are a slave, Neo. That you, like everyone else, was born into bondage... kept inside a prison that you cannot smell, taste, or touch. A prison for your mind. Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."
+        },
+        {
+            "role": "Neo",
+            "text": "How?"
+        },
+        {
+            "role": "Morpheus",
+            "text": "Hold out your hands. This is your last chance. After this, there is no going back."
+        },
+        {
+            "role": "Morpheus",
+            "text": "You take the blue pill and the story ends. You wake in your bed and you believe whatever you want to believe."
+        },
+        {
+            "role": "Morpheus",
+            "text": "You take the red pill and you stay in Wonderland and I show you how deep the rabbit-hole goes."
+        },
+        {
+            "role": "Morpheus",
+            "text": "Remember that all I am offering is the truth. Nothing more."
+        }
+    ]
+}

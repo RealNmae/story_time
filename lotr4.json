@@ -1,0 +1,141 @@
+{
+    "roles": [
+        "GOLLUM",
+        "SMEAGOL",
+        "SAM"
+    ],
+    "dialog": [
+        {
+            "role": "GOLLUM",
+            "text": "We wants it. We needs it. Must have the precioussss. They stole it from us. Sneaky little hobbitsesss. Wicked, trickssssy, falssse!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "No! Not Master."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "Yes, precious. False. They will cheat you, hurt you, lie."
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Master's my friend."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "You don't have any friends. Nobody likes YOU..."
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Not listening. I'm not listening."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "You're a liar and a thief."
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Nope."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "Murderer!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Go away."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "Go away! HAHAHAHA!!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "I hate you. I hate you!"
+        },
+        {
+            "role": "GOLLUM",
+            "text": "Where would you be without me? Gollum, gollum. I saved us. It was me. We survived because of me!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Not anymore."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "What did you say?"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Master looks after us now. We don't need you."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "What?"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Leave now and never come back."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "No!!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Leave now and never come back!"
+        },
+        {
+            "role": "GOLLUM",
+            "text": "Arrrgh!!!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "LEAVE. NOW. AND. NEVER. COME. BACK!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "We... we told him to go away! And away he goes, preciousss. Gone, gone, gone! Smeagol is free!"
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Look! Look! See what Smeagol finds! Hehehe! Hahaha! They are young. They are tender. They are nice. Yes they are! Eat them! Eat them!"
+        },
+        {
+            "role": "SAM",
+            "text": "You'll make him sick, you will, behaving like that! There's only one way to eat a brace of coneys."
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Argh!! What's it doing! Stupid fat hobbit! It ruins it!"
+        },
+        {
+            "role": "SAM",
+            "text": "What's to ruin? There's hardly any meat on 'em. What we need is a few good taters."
+        },
+        {
+            "role": "GOLLUM",
+            "text": "What's taters, preciousss? What's taters uh?"
+        },
+        {
+            "role": "SAM",
+            "text": "PO-TAY-TOES! Boil 'em. Mash 'em. Stick 'em in a stew. Lovely big golden chips with a nice piece of fried fish...."
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Pbbbttt!!"
+        },
+        {
+            "role": "SAM",
+            "text": "Even you couldn't say no to that."
+        },
+        {
+            "role": "SMEAGOL",
+            "text": "Oh yes we could! Spoil nice fish... Give it to usss rrraw... and wrrriggling! You keep nasty chips."
+        },
+        {
+            "role": "SAM",
+            "text": "You're hopeless."
+        }
+    ]
+}

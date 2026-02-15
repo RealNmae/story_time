@@ -1,0 +1,44 @@
+{
+    "roles": [
+        "VINCENT",
+        "JULES"
+    ],
+    "dialog": [
+        {
+            "role": "VINCENT",
+            "text": "And you know what they call a Quarter Pounder with Cheese in Paris?"
+        },
+        {
+            "role": "JULES",
+            "text": "They don't call it a Quarter Pounder with Cheese?"
+        },
+        {
+            "role": "VINCENT",
+            "text": "No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is."
+        },
+        {
+            "role": "JULES",
+            "text": "What'd they call it?"
+        },
+        {
+            "role": "VINCENT",
+            "text": "They call it a Royale with Cheese."
+        },
+        {
+            "role": "JULES",
+            "text": "Royale with Cheese. What'd they call a Big Mac?"
+        },
+        {
+            "role": "VINCENT",
+            "text": "Big Mac's a Big Mac, but they call it Le Big Mac."
+        },
+        {
+            "role": "JULES",
+            "text": "Le Big Mac. What do they call a Whopper?"
+        },
+        {
+            "role": "VINCENT",
+            "text": "I dunno, I didn't go into a Burger King."
+        }
+    ]
+}
